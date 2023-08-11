@@ -1,0 +1,39 @@
+html, body{
+  height: 100%;
+  background-color: lightseagreen;
+  margin: 0px;
+}
+
+#canvas {
+  background-color: white;
+  cursor: crosshair;
+  border: solid 2px orange;
+}
+
+
+#tilbake_knapp {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0px;
+  top: 15px;
+  left: 10px;
+  width: auto;
+  height: auto;
+  font-size: 30px;
+  background-color: lightblue;
+  text-decoration: none;
+  color: #222831;
+  border: 3px solid black;
+}
+div
+{
+	background-color: #222831;
+	border: 1px solid #F0D43A;
+	border-radius: 15px;
+}
+p{
+  color: white;
+  font-weight: bold;
+  padding-left: 2%;
+}
